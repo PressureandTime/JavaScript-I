@@ -18,7 +18,7 @@ add(1,2);
 
 
 
-let subtract = (param1, param2) => alert(param1 - param2);
+let subtract = (param1, param2) => console.log(param1 - param2);
 
 subtract(8,2);
 
